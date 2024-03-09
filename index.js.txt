@@ -1,0 +1,5 @@
+// index.js
+
+console.log("Welcome to our project. We hope you find it useful and enjoyable.");
+
+console.log("For more information on the project, please refer to the readme file.");
